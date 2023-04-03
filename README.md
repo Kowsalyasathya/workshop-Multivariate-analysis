@@ -14,6 +14,9 @@ To perform multivarient analysis on the given data set.
 
 5.Apply Multivariate analysis.
 ## CODE:
+
+BIVARIATE ANALYSIS:
+
 import pandas as pd
 import seaborn as sns
 df=pd.read_csv("/content/FlightInformation.csv")
@@ -38,6 +41,8 @@ sns.scatterplot(x=df["Price"],y=df["Duration"],data=df)
 sns.displot(df,x="Source",hue="Destination")
 
 sns.barplot(x=df['Price'],y=df['Source'],data=df)
+
+MULTIVARIENT ANALYSIS:
 
 df.corr()
 
@@ -84,11 +89,14 @@ plt.show()
 ## SCATTER_PLOT:
 
 ![Screenshot (188)](https://user-images.githubusercontent.com/118671457/229584790-6083c861-0382-4e8c-afed-a3e86a12c671.png)
-NUMERICAL & CATEGORIAL:
-
+## NUMERICAL & CATEGORIAL:
+## boxplot:
 ![Screenshot (187)](https://user-images.githubusercontent.com/118671457/229584759-21232ef2-991c-4a78-a232-6498a77e81f6.png)
+## displot:
 ![Screenshot (189)](https://user-images.githubusercontent.com/118671457/229584841-3f6f4dbb-f716-4d86-98b3-a07909907ba4.png)
+## barplot:
 ![Screenshot (190)](https://user-images.githubusercontent.com/118671457/229584862-e8fbbc88-b386-4a1f-9f64-ffb758e151d6.png)
+
 ## MULTIVARIENT ANALYSIS:
 
 ## CORRELATION:
