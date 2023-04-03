@@ -63,9 +63,13 @@ REMOVING NULL DATA:
 ![Screenshot (185)](https://user-images.githubusercontent.com/118671457/229584680-313841be-731b-421b-9217-af6b8a332a7c.png)
 
 ![Screenshot (186)](https://user-images.githubusercontent.com/118671457/229584720-ae0c0f5b-6a20-4f48-b163-8a6d92ecdc3d.png)
+NUMERICAL & NUMERICAL:
+SCATTER_PLOT:
+![Screenshot (188)](https://user-images.githubusercontent.com/118671457/229584790-6083c861-0382-4e8c-afed-a3e86a12c671.png)
+NUMERICAL & CATEGORIAL:
+BOX PLOT
 
 ![Screenshot (187)](https://user-images.githubusercontent.com/118671457/229584759-21232ef2-991c-4a78-a232-6498a77e81f6.png)
-![Screenshot (188)](https://user-images.githubusercontent.com/118671457/229584790-6083c861-0382-4e8c-afed-a3e86a12c671.png)
 ![Screenshot (189)](https://user-images.githubusercontent.com/118671457/229584841-3f6f4dbb-f716-4d86-98b3-a07909907ba4.png)
 ![Screenshot (190)](https://user-images.githubusercontent.com/118671457/229584862-e8fbbc88-b386-4a1f-9f64-ffb758e151d6.png)
 MULTIVARIENT ANALYSIS:
