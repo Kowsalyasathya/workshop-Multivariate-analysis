@@ -15,7 +15,7 @@ To perform multivarient analysis on the given data set.
 5.Apply Multivariate analysis.
 ## CODE:
 
-BIVARIATE ANALYSIS:
+## BIVARIATE ANALYSIS:
 
 import pandas as pd
 import seaborn as sns
@@ -42,7 +42,7 @@ sns.displot(df,x="Source",hue="Destination")
 
 sns.barplot(x=df['Price'],y=df['Source'],data=df)
 
-MULTIVARIENT ANALYSIS:
+## MULTIVARIENT ANALYSIS:
 
 df.corr()
 
@@ -67,7 +67,7 @@ plt.show()
 
 ## OUTPUT:
 
-## Bivariate Analysis:
+## BIVARIATE ANALYSIS:
 
 ## DATA SET:
 
