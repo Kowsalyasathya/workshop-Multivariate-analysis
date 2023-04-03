@@ -27,8 +27,11 @@ df.info()
 df.isnull().sum()
 
 df['Route']=df['Route'].fillna(df['Route'].mode()[0])
+
 df['Total_Stops']=df['Total_Stops'].fillna(df['Total_Stops'].mode()[0])
+
 df.isnull().sum()
+
 
 df.kurtosis()
 
